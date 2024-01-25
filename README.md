@@ -31,6 +31,9 @@ PuTTY'deki open butonuna tıklıyoruz.
 [![image](https://r.resimlink.com/YB1yTu.jpg)](https://resimlink.com/YB1yTu)
 PuTTY Ken Generator'da belirlediğimiz kullanıcı adı ve şifremizi yazarak giriş yapıyoruz.
 
+Sunucu Ip -> 34.125.7.47
+kullanıcı adı -> enterpriseapp
+şifre -> 1234
 
 
 
