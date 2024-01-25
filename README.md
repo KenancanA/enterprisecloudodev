@@ -1,6 +1,8 @@
 #enterprisecloudodev
+
 [Google Cloud](https://cloud.google.com/)
 [PuTTy](https://www.puttygen.com/)
+
 [![image](https://r.resimlink.com/uR0-VvKo.jpg)](https://resimlink.com/uR0-VvKo)
 Yukarıda verilen linkten Google Cloud'ın resmi web sitesine gidiyoruz. Ardından get started for free butonuna basarak Google hesabımızla Google Cloud'a giriş yapıyoruz. Önümüze gelen ilk sekmeden Türkiye'yi seçip agree&continue butonuna tıklıyoruz.
 [![image](https://r.resimlink.com/mqzvDPK8-6L.jpg)](https://resimlink.com/mqzvDPK8-6L)
